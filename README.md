@@ -41,5 +41,6 @@ Python • SQL • Pandas • NumPy • Scikit-learn • TensorFlow • Machine 
 
 ## Connect with Me
 
-* LinkedIn
-* São José dos Campos, Brazil
+🔗 LinkedIn: www.linkedin.com/in/flavio-estevam-nogueira
+
+📧 Email: festevam325@gmail.com
