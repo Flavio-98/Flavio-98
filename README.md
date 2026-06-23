@@ -1,6 +1,6 @@
 # Hi, I'm Flávio 👋
 
-Data Science undergraduate at Mackenzie University with an academic background in Economics.
+Data Science student with a background in Economics, focused on Machine Learning, Artificial Intelligence and Financial Markets.
 
 I am interested in applying Data Science, Machine Learning and Artificial Intelligence to solve real-world problems, especially in Economics, Financial Markets and Business Analytics.
 
