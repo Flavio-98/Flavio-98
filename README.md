@@ -1,16 +1,26 @@
-## Hi there 👋
+# Flávio Estevam Nogueira Andrade
 
-<!--
-**Flavio-98/Flavio-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science graduate at Mackenzie University with an academic background in Economics.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Econometrics
+- Financial Markets
+
+## Featured Projects
+
+- Brazilian Banking Risk Analysis
+- Financial Fraud Detection with DBSCAN
+- Netflix Content Recommendation System
+- Brazilian Bank Deposits Analysis
+
+## Technologies
+
+Python | SQL | Pandas | NumPy | Scikit-learn | Machine Learning | Data Analysis
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/flavio-estevam-nogueira
