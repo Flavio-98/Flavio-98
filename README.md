@@ -1,6 +1,6 @@
 # Hi, I'm Flávio 👋
 
-Data Science student with a background in Economics, focused on Machine Learning, Artificial Intelligence and Financial Markets.
+Economist and Data Science student focused on Machine Learning, Artificial Intelligence and Financial Markets.
 
 I am interested in applying Data Science, Machine Learning and Artificial Intelligence to solve real-world problems, especially in Economics, Financial Markets and Business Analytics.
 
@@ -26,7 +26,7 @@ Predictive analytics project using Decision Trees to identify customers with a h
 
 ## Technologies
 
-Python • SQL • Pandas • NumPy • Scikit-learn • TensorFlow • Machine Learning • Data Analysis • Statistics
+Python • SQL • Pandas • NumPy • Scikit-learn • Machine Learning • Data Analysis • Statistics
 
 ## Connect with Me
 
