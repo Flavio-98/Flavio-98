@@ -4,15 +4,6 @@ Data Science student with a background in Economics, focused on Machine Learning
 
 I am interested in applying Data Science, Machine Learning and Artificial Intelligence to solve real-world problems, especially in Economics, Financial Markets and Business Analytics.
 
-## Areas of Interest
-
-* Data Science
-* Machine Learning
-* Artificial Intelligence
-* Economics
-* Financial Markets
-* Business Analytics
-
 ## Featured Projects
 
 * Airfare Price Forecasting (SARIMA & XGBoost)
